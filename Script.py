@@ -2,13 +2,13 @@ class script(object):
     START_TXT = """Hello {},
 Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Bro...🤪"""
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/MADARA_UCHIHA_FT_SMK >⚡️ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳⚡️'s</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/MADARA_UCHIHA_FT_SMK>Dev Channel</a> and stay tuned for next <a href=https://t.me/SMKTHEBOTZ>update</a>.\n\n  🐞 Report Bug here: <a href=https://t.me/Maurya_Universal_bot_support>SMKTHEBOTZ Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/MADARA_UCHIHA_FT_SMK >ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳'s</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/MADARA_UCHIHA_FT_SMK>Dev Channel</a> and stay tuned for next <a href=https://t.me/SMKTHEBOTZ>update</a>.\n\n  🐞 Report Bug here: <a href=https://t.me/Maurya_Universal_bot_support>SMKTHEBOTZ Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/MADARA_UCHIHA_FT_SMK >⚡️ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳⚡️'s</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/MADARA_UCHIHA_FT_SMK>Dev Channel</a> and stay tuned for next <a href=https://t.me/MADARA_UCHIHA_FT_SMK>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>SMK Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/MADARA_UCHIHA_FT_SMK >ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳⚡️'s</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/MADARA_UCHIHA_FT_SMK>Dev Channel</a> and stay tuned for next <a href=https://t.me/MADARA_UCHIHA_FT_SMK>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>SMK Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/MADARA_UCHIHA_FT_SMK >⚡️ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳⚡️'s</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/Donatesmkthebot>Click here...</a>\n\nT❤️ Thank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/MADARA_UCHIHA_FT_SMK >ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳'s</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/Donatesmkthebot>Click here...</a>\n\nT❤️ Thank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
 \nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/Maurya_Universal_bot_support>SMK Support</a>\n\n
@@ -79,10 +79,10 @@ Here is the help for my COMMANDS."""
     SOURCE_TXT = """<b>NOTE:</b>
 - Lazy Princess is an open source project. 
 - Source - https://github.com/NAMAROy/SMKTHEBOTZ  
-- Please give a star to this repo after fork. Salute to <a href=https://t.me/MADARA_UCHIHA_FT_SMK>⚡️ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳⚡️</a> for adding extra features in me.
+- Please give a star to this repo after fork. Salute to <a href=https://t.me/MADARA_UCHIHA_FT_SMK>ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳</a> for adding extra features in me.
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/MADARA_UCHIHA_FT_SMK>⚡️ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳⚡️</a> 🦋"""
+- 🦋 <a href=https://t.me/MADARA_UCHIHA_FT_SMK>ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
