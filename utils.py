@@ -1,10 +1,10 @@
-# Credit @LazyDeveloper.
+# Credit @MADARA FT SMK.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# Born to make history @MADARA FT SMK !
+# Thank you MADARA FT SMK for helping us in this Journey
+# 🥰  Thank you for giving me credit @MADARA FT SMK  🥰
+# for any error please contact me -> telegram@MADARA FT SMK or insta @MADARA FT SMK 
+# rip paid developers 🤣 - >> No need to buy paid source code while @MADARA FT SMK is here 😍😍
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from info import *
@@ -500,10 +500,10 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-# Credit @LazyDeveloper.
+# Credit @MADARA FT SMK.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# Born to make history @MADARA FT SMK !
+# Thank you MADARA FT SMK for helping us in this Journey
+# 🥰  Thank you for giving me credit @MADARA FT SMK  🥰
+# for any error please contact me -> telegram@MADARA FT SMK or insta @MADARA FT SMK 
+# rip paid developers 🤣 - >> No need to buy paid source code while @MADARA FT SMK is here 😍😍
