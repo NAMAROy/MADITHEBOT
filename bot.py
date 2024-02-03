@@ -1,12 +1,12 @@
 import logging
 import logging.config
-# Credit @LazyDeveloper.
+# Credit @MADARA FT SMK.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
+# Born to make history @MADARA FT SMK !
 # Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# 🥰  Thank you for giving me credit @MADARA FT SMK  🥰
+# for any error please contact me -> telegram@MADARA FT SMK or insta @MADARA FT SMK 
+# rip paid developers 🤣 - >> No need to buy paid source code while @MADARA FT SMK is here 😍😍
 # Get logging configurations
 logging.config.fileConfig('logging.conf')
 logging.getLogger().setLevel(logging.INFO)
@@ -34,7 +34,7 @@ from plugins import web_server
 
 import asyncio
 from pyrogram import idle
-from lazybot import LazyPrincessBot
+from lazybot import MADARA THE BOYZ
 
 from util.keepalive import ping_server
 from lazybot.clients import initialize_clients
